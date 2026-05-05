@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyalahiya&label=Profile%20views&color=0e75b6&style=flat" alt="riyalahiya" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+
 
 - 📝 I regularly write articles on [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
