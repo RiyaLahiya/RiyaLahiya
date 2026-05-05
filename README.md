@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya Lahiya</h1>
-<h3 align="center">Aspiring Software Engineer | Frontend Developer | Backend Developer | Machine Learning (Python) | C++</h3>
+<h3 align="center">Aspiring Software Engineer | Machine Learning (Python) | </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyalahiya&label=Profile%20views&color=0e75b6&style=flat" alt="riyalahiya" /> </p>
 
